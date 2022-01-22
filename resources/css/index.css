@@ -1,0 +1,43 @@
+header {
+    padding-left: 200px;
+}
+
+#text2 {
+    background-color: hsla(2, 0%, 30%, 0.5);
+    display:inline-block;  
+}
+
+#text3 {
+    padding-left: 800px;
+    display:inline-block;
+}
+
+#text4 {
+    padding-top: 50px;
+    display: inline-block;
+    padding-left: 550px;
+}
+
+body {
+    background-color:#000000;
+    font-family: 'Space Mono', monospace;
+    color: #ffffff;
+}
+
+ td {
+     padding-inline-end: 300px;
+ }
+
+#spaceDog1 {
+     padding-left: 200px;
+     padding-top: 30px;
+     float: left;
+ }
+
+ #spaceDog2 {
+     max-width: 40%;
+     height: auto;
+     padding-left: 20px;
+     float: left;
+ }
+
